@@ -36,6 +36,6 @@ I’m an undergraduate in [Creative Design and Intelligent Engineering (CDIE)](h
   <div class="project-description">
     <div class="project-title">OdorAgent: Generate Odor Sequences for Movies Based on Large Language Model</div>
     <div class="project-authors">Yu Zhang, Peizhong Gao, Fangzhou Kang, Jiaxiang Li, <u>Jiacheng Liu</u>, Qi Lu, and YINGQING XU (IEEE VR Papers program)</div>
-    <div class="project-links"><a href="https://www.hilab.dev/research/Headar/Headar.pdf">[Paper]</a> <a href="https://youtu.be/haQjXGVPx94">[Video]</a> <a href="https://doi.org/10.1145/3597638.3608410">[DOI]</a> </div>
+    <div class="project-links"><a href="https://www.hilab.dev/research/Headar/Headar.pdf">[Paper]</a> <a href="https://youtu.be/haQjXGVPx94">[Video]</a> <a href="https://doi.org/10.1109/VR58804.2024.00034">[DOI]</a> </div>
   </div>
 </div>

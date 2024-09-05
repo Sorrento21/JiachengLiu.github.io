@@ -27,7 +27,7 @@ I’m an undergraduate in [Creative Design and Intelligent Engineering (CDIE)](h
   <div class="project-description">
     <div class="project-title">Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones</div>
     <div class="project-authors">Jiankai Tang, Xinyi Li, <u>Jiacheng Liu</u>, Xiyuxing Zhang, Zeyu Wang, and Yuntao Wang (CHI Workshop PhysioCHI. 2024)</div>
-    <div class="project-links"><a href="https://www.hilab.dev/research/TextureSight/TextureSight.pdf">[Paper]</a> <a href="https://youtu.be/A0YRHyYma5U?si=nDC6D6WjoQ-4F6uI">[Video]</a> <a href="https://doi.org/10.1145/3631413">[DOI]</a> </div>
+    <div class="project-links"><a href="https://www.hilab.dev/research/TextureSight/TextureSight.pdf">[Paper]</a> <a href="https://youtu.be/A0YRHyYma5U?si=nDC6D6WjoQ-4F6uI">[Video]</a> <a href="https://doi.org/10.48550/arXiv.2404.05003">[DOI]</a> </div>
   </div>
 </div>
 

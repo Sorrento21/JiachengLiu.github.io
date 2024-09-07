@@ -46,7 +46,7 @@ Currently, my research interests are in **ubiquitous and mobile health**. For mo
   <img src="/images/rPPg.png" alt="Project Image" class="project-image">
   <div class="project-description">
     <div class="project-title">Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones</div>
-    <div class="project-authors">Jiankai Tang, Xinyi Li, <u>Jiacheng Liu</u>, Xiyuxing Zhang, Zeyu Wang, and Yuntao Wang (CHI Workshop PhysioCHI. 2024)</div>
+    <div class="project-authors">Jiankai Tang, Xinyi Li*, <u>Jiacheng Liu</u>, Xiyuxing Zhang, Zeyu Wang, and Yuntao Wang (CHI Workshop PhysioCHI. 2024)</div>
     <div class="project-links"><a href="assets/2404.05003v1.pdf">[Paper]</a><a href="https://doi.org/10.48550/arXiv.2404.05003">[DOI]</a> </div>
   </div>
 </div>

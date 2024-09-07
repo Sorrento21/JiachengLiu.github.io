@@ -11,12 +11,30 @@ I’m an undergraduate in [Creative Design and Intelligent Engineering (CDIE)](h
 
 <h2 id='Research Projects'>Research Projects</h2>
 
-
 <div class="project">
   <img src="/images/PPGA.png" alt="Project Image" class="project-image">
   <div class="project-description">
-    <div class="project-title">RAPID: A Robust and Accurate PPG-based Model for Efficient ID-Authentication</div>
-    <div class="project-authors">Jiankai Tang, <u>and Jiacheng Liu</u>, RENLING TONG, Kai Zhu, Zhe Li, Junliang Xing, Yuanchun Shi, Yuntao Wang (Manuscript in preparation)</div>
+    <div class="project-title">Identity authentication based on photoplethysmography (PPG)</div>
+    <div class="project-authors">Jiankai Tang, <u>and Jiacheng Liu</u>, RENLING TONG, Kai Zhu, Zhe Li, Junliang Xing, Yuanchun Shi, Yuntao Wang (CHI 2025)</div>
+    <div>Manuscript in preparation</div>
+  </div>
+</div>
+
+<div class="project">
+  <img src="/images/SSS.png" alt="Project Image" class="project-image">
+  <div class="project-description">
+    <div class="project-title">Silent speech synthesis using electrolaryngeal voice</div>
+<!--     <div class="project-authors">Jiankai Tang, <u>and Jiacheng Liu</u>, RENLING TONG, Kai Zhu, Zhe Li, Junliang Xing, Yuanchun Shi, Yuntao Wang (Manuscript in preparation)</div> -->
+    <div class="project-authors">Ongoing research</div>
+  </div>
+</div>
+
+<div class="project">
+  <img src="/images/SSR.png" alt="Project Image" class="project-image">
+  <div class="project-description">
+    <div class="project-title">Silent speech recognition using low-power active acoustic sensing</div>
+<!--     <div class="project-authors">Jiankai Tang, <u>and Jiacheng Liu</u>, RENLING TONG, Kai Zhu, Zhe Li, Junliang Xing, Yuanchun Shi, Yuntao Wang (Manuscript in preparation)</div> -->
+    <div class="project-authors">Ongoing research</div>
   </div>
 </div>
 

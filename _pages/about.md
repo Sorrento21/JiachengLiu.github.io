@@ -21,7 +21,7 @@ I’m an undergraduate in [Creative Design and Intelligent Engineering (CDIE)](h
 </div>
 
 <div class="project">
-  <img src="/images/rPPG.png" alt="Project Image" class="project-image">
+  <img src="/images/rPPg.png" alt="Project Image" class="project-image">
   <div class="project-description">
     <div class="project-title">Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones</div>
     <div class="project-authors">Jiankai Tang, Xinyi Li, <u>Jiacheng Liu</u>, Xiyuxing Zhang, Zeyu Wang, and Yuntao Wang (CHI Workshop PhysioCHI. 2024)</div>

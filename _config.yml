@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "portrait.png"
   name             : "Jiacheng Liu"
-  pronouns         : "he/his"  
+  # pronouns         : "he/his"  
   bio              : "Undergrad @ Tsinghua University"
   location         : "China"
   employer         : "Tsinghua University"

@@ -21,7 +21,7 @@ author_profile: true
 <div class="publication">
     <div class="publication-title">Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones</div>
     <div class="publication-authors">Jiankai Tang, Xinyi Li*, <u>Jiacheng Liu</u>, Xiyuxing Zhang, Zeyu Wang, and Yuntao Wang</div>
-    <div class="publication-journal">Proceedings of the ACM on 2024 CHI Conference on Human Factors in Computing Systems Workshops</div>
+    <div class="publication-journal">Proceedings of the ACM on 2024 CHI Conference on Human Factors in Computing Systems Workshops, 2024</div>
     <div class="publication-links">
         <a href="assets/2404.05003v1.pdf">[Paper]</a>
         <a href="https://doi.org/10.48550/arXiv.2404.05003">[DOI]</a>

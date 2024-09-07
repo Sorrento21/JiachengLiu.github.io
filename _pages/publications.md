@@ -35,6 +35,6 @@ author_profile: true
     <div class="publication-journal">IEEE Conference on Virtual Reality and 3D User Interfaces, 2023</div>
     <div class="publication-links">
         <a href="assets/OdorAgent_Generate_Odor_Sequences_for_Movies_Based_on_Large_Language_Model.pdf">[Paper]</a>
-        <a href="https://doi.org/10.1109/VR58804.2024.00034">[DOI]
+        <a href="https://doi.org/10.1109/VR58804.2024.00034">[DOI]</a>
     </div>
 </div>

@@ -446,3 +446,25 @@
   font-weight: 300;
   margin-right: 100px;
 }
+
+.publication {
+   border-bottom: 1px solid #ddd;
+   margin-bottom: 20px;
+   padding-bottom: 10px;
+}
+.publication-title {
+   font-size: 18px;
+   font-weight: bold;
+}
+.publication-authors {
+   font-style: italic;
+   margin: 5px 0;
+}
+.publication-links a {
+   margin-right: 10px;
+   text-decoration: none;
+   color: #0066cc;
+}
+.publication-links a:hover {
+   text-decoration: underline;
+}

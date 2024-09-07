@@ -16,7 +16,7 @@ I’m an undergraduate in [Creative Design and Intelligent Engineering (CDIE)](h
   <div class="project-description">
     <div class="project-title">Identity authentication based on photoplethysmography (PPG)</div>
     <div class="project-authors">Jiankai Tang, <u>and Jiacheng Liu</u>, RENLING TONG, Kai Zhu, Zhe Li, Junliang Xing, Yuanchun Shi, Yuntao Wang (CHI 2025)</div>
-    <div>Manuscript in preparation</div>
+    <div class="project-authors">Manuscript in preparation</div>
   </div>
 </div>
 
@@ -25,6 +25,7 @@ I’m an undergraduate in [Creative Design and Intelligent Engineering (CDIE)](h
   <div class="project-description">
     <div class="project-title">Silent speech synthesis using electrolaryngeal voice</div>
 <!--     <div class="project-authors">Jiankai Tang, <u>and Jiacheng Liu</u>, RENLING TONG, Kai Zhu, Zhe Li, Junliang Xing, Yuanchun Shi, Yuntao Wang (Manuscript in preparation)</div> -->
+    <div class="project-authors">Research during summer research in SciFilab at Cornell.(Plan to submit to IMWUT 2025)</div>
     <div class="project-authors">Ongoing research</div>
   </div>
 </div>
@@ -34,6 +35,7 @@ I’m an undergraduate in [Creative Design and Intelligent Engineering (CDIE)](h
   <div class="project-description">
     <div class="project-title">Silent speech recognition using low-power active acoustic sensing</div>
 <!--     <div class="project-authors">Jiankai Tang, <u>and Jiacheng Liu</u>, RENLING TONG, Kai Zhu, Zhe Li, Junliang Xing, Yuanchun Shi, Yuntao Wang (Manuscript in preparation)</div> -->
+    <div class="project-authors">Research during summer research in SciFilab at Cornell.</div>
     <div class="project-authors">Ongoing research</div>
   </div>
 </div>

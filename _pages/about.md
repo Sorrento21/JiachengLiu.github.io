@@ -27,7 +27,7 @@ I’m an undergraduate in [Creative Design and Intelligent Engineering (CDIE)](h
   <div class="project-description">
     <div class="project-title">Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones</div>
     <div class="project-authors">Jiankai Tang, Xinyi Li, <u>Jiacheng Liu</u>, Xiyuxing Zhang, Zeyu Wang, and Yuntao Wang (CHI Workshop PhysioCHI. 2024)</div>
-    <div class="project-links"><a href="https://www.hilab.dev/research/TextureSight/TextureSight.pdf">[Paper]</a> <a href="https://youtu.be/A0YRHyYma5U?si=nDC6D6WjoQ-4F6uI">[Video]</a> <a href="https://doi.org/10.48550/arXiv.2404.05003">[DOI]</a> </div>
+    <div class="project-links"><a href="assets/2404.05003v1.pdf">[Paper]</a> <a href="https://youtu.be/A0YRHyYma5U?si=nDC6D6WjoQ-4F6uI">[Video]</a> <a href="https://doi.org/10.48550/arXiv.2404.05003">[DOI]</a> </div>
   </div>
 </div>
 
@@ -36,6 +36,6 @@ I’m an undergraduate in [Creative Design and Intelligent Engineering (CDIE)](h
   <div class="project-description">
     <div class="project-title">OdorAgent: Generate Odor Sequences for Movies Based on Large Language Model</div>
     <div class="project-authors">Yu Zhang, Peizhong Gao, Fangzhou Kang, Jiaxiang Li, <u>Jiacheng Liu</u>, Qi Lu, and YINGQING XU (IEEE VR Papers program)</div>
-    <div class="project-links"><a href="https://www.hilab.dev/research/Headar/Headar.pdf">[Paper]</a> <a href="https://youtu.be/haQjXGVPx94">[Video]</a> <a href="https://doi.org/10.1109/VR58804.2024.00034">[DOI]</a> </div>
+    <div class="project-links"><a href="assets/OdorAgent_Generate_Odor_Sequences_for_Movies_Based_on_Large_Language_Model">[Paper]</a> <a href="https://youtu.be/haQjXGVPx94">[Video]</a> <a href="https://doi.org/10.1109/VR58804.2024.00034">[DOI]</a> </div>
   </div>
 </div>

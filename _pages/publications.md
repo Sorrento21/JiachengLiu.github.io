@@ -5,12 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- Example 1 -->
 <div class="publication">
     <div class="publication-title">Exploring Efficient and Reliable PPG Authentication in Daily Scenarios</div>
-    <div class="publication-authors"><u>Xue Wang</u>, Zixiong Su, Jun Rekimoto, Yang Zhang (CHI 2024)</div>
-    <div class="publication-journal">Conference on Human Factors in Computing Systems (CHI), 2025</div>
-    <div class="publication-links">
+    <div class="publication-authors">Jiankai Tang, <u>Jiacheng Liu*</u>, RENLING TONG, Kai Zhu, Zhe Li, Junliang Xing, Yuanchun Shi, Yuntao Wang</div>
+    <div class="publication-journal">Conference on Human Factors in Computing Systems, 2025</div>
+    <div class="publication-links">Manuscript in preparation
 <!--         <a href="">[Paper]</a>
         <a href="">[Video]</a>
         <a href="">[DOI]</a>
@@ -19,31 +18,23 @@ author_profile: true
     </div>
 </div>
 
-<!-- Example 2 -->
 <div class="publication">
-    <div class="publication-title">Multi-modal Mobile Sensing for Health Monitoring</div>
-    <div class="publication-authors"><u>Jane Doe</u>, John Smith, Alex Johnson (Ubicomp 2023)</div>
-    <div class="publication-journal">Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2023</div>
+    <div class="publication-title">Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones</div>
+    <div class="publication-authors">Jiankai Tang, Xinyi Li*, <u>Jiacheng Liu</u>, Xiyuxing Zhang, Zeyu Wang, and Yuntao Wang</div>
+    <div class="publication-journal">Proceedings of the ACM on 2024 CHI Conference on Human Factors in Computing Systems Workshops</div>
     <div class="publication-links">
-        <a href="https://example.com/paper.pdf">[Paper]</a>
-        <a href="https://example.com/video">[Video]</a>
-        <a href="https://doi.org/10.1145/xxxxxx">[DOI]</a>
-        <a href="https://github.com/example/health-monitoring">[Github]</a>
+        <a href="assets/2404.05003v1.pdf">[Paper]</a>
+        <a href="https://doi.org/10.48550/arXiv.2404.05003">[DOI]</a>
+        <a href="https://github.com/health-hci-group/largest_rppg_dataset_evaluation">[Github]</a>
     </div>
 </div>
 
-<!-- Example 3 -->
 <div class="publication">
-    <div class="publication-title">AI-Driven Real-time Analytics for Mobile Devices</div>
-    <div class="publication-authors"><u>Alex Doe</u>, Emily Davis, Mark Lee (CVPR 2022)</div>
-    <div class="publication-journal">Conference on Computer Vision and Pattern Recognition (CVPR), 2022</div>
+    <div class="publication-title">OdorAgent: Generate Odor Sequences for Movies Based on Large Language Model</div>
+    <div class="publication-authors">Yu Zhang, Peizhong Gao, Fangzhou Kang, Jiaxiang Li, <u>Jiacheng Liu</u>, Qi Lu, and YINGQING XU</div>
+    <div class="publication-journal">IEEE Conference on Virtual Reality and 3D User Interfaces, 2023</div>
     <div class="publication-links">
-        <a href="https://example.com/paper.pdf">[Paper]</a>
-        <a href="https://example.com/video">[Video]</a>
-        <a href="https://doi.org/10.1109/CVPR2022.12345">[DOI]</a>
-        <a href="https://github.com/example/AI-analytics">[Github]</a>
+        <a href="assets/OdorAgent_Generate_Odor_Sequences_for_Movies_Based_on_Large_Language_Model.pdf">[Paper]</a>
+        <a href="https://doi.org/10.1109/VR58804.2024.00034">[DOI]
     </div>
 </div>
-
-</body>
-</html>

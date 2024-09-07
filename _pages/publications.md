@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 <div class="publication">
-    <div class="publication-title">Exploring Efficient and Reliable PPG Authentication in Daily Scenarios</div>
-    <div class="publication-authors">Jiankai Tang, <u>Jiacheng Liu*</u>, RENLING TONG, Kai Zhu, Zhe Li, Junliang Xing, Yuanchun Shi, Yuntao Wang</div>
+    <div class="project-title">Exploring Efficient and Reliable PPG Authentication in Daily Scenarios</div>
+    <div class="project-authors">Jiankai Tang, <u>Jiacheng Liu*</u>, RENLING TONG, Kai Zhu, Zhe Li, Junliang Xing, Yuanchun Shi, Yuntao Wang</div>
     <div class="publication-journal">Conference on Human Factors in Computing Systems, 2025</div>
     <div class="publication-links">Manuscript in preparation
 <!--         <a href="">[Paper]</a>
@@ -19,8 +19,8 @@ author_profile: true
 </div>
 
 <div class="publication">
-    <div class="publication-title">Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones</div>
-    <div class="publication-authors">Jiankai Tang, Xinyi Li*, <u>Jiacheng Liu</u>, Xiyuxing Zhang, Zeyu Wang, and Yuntao Wang</div>
+    <div class="project-title">Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones</div>
+    <div class="project-authors">Jiankai Tang, Xinyi Li*, <u>Jiacheng Liu</u>, Xiyuxing Zhang, Zeyu Wang, and Yuntao Wang</div>
     <div class="publication-journal">Proceedings of the ACM on 2024 CHI Conference on Human Factors in Computing Systems Workshops, 2024</div>
     <div class="publication-links">
         <a href="assets/2404.05003v1.pdf">[Paper]</a>
@@ -30,8 +30,8 @@ author_profile: true
 </div>
 
 <div class="publication">
-    <div class="publication-title">OdorAgent: Generate Odor Sequences for Movies Based on Large Language Model</div>
-    <div class="publication-authors">Yu Zhang, Peizhong Gao, Fangzhou Kang, Jiaxiang Li, <u>Jiacheng Liu</u>, Qi Lu, and YINGQING XU</div>
+    <div class="project-title">OdorAgent: Generate Odor Sequences for Movies Based on Large Language Model</div>
+    <div class="project-authors">Yu Zhang, Peizhong Gao, Fangzhou Kang, Jiaxiang Li, <u>Jiacheng Liu</u>, Qi Lu, and YINGQING XU</div>
     <div class="publication-journal">IEEE Conference on Virtual Reality and 3D User Interfaces, 2023</div>
     <div class="publication-links">
         <a href="assets/OdorAgent_Generate_Odor_Sequences_for_Movies_Based_on_Large_Language_Model.pdf">[Paper]</a>

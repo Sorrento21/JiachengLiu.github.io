@@ -17,7 +17,7 @@ Currently, my research interests are in **ubiquitous and mobile health**. For mo
   <img src="/images/PPGA.png" alt="Project Image" class="project-image">
   <div class="project-description">
     <div class="project-title">Identity authentication based on photoplethysmography (PPG)</div>
-    <div class="project-authors">Jiankai Tang, <u>and Jiacheng Liu</u>, RENLING TONG, Kai Zhu, Zhe Li, Junliang Xing, Yuanchun Shi, Yuntao Wang (CHI 2025)</div>
+    <div class="project-authors">Jiankai Tang, <u>Jiacheng Liu*</u>, RENLING TONG, Kai Zhu, Zhe Li, Junliang Xing, Yuanchun Shi, Yuntao Wang (CHI 2025)</div>
     <div class="project-authors">Manuscript in preparation</div>
   </div>
 </div>

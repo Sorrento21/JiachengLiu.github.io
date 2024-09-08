@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "A robot car built using the Verilog hardware programming language and aesthetic design, capable of following black lines on the ground.<br/><img src='/images/car.jpg' width='500' height='300'>"
+title: "Design and Construction of Line-Following Robot"
+excerpt: "A robot car built using the Verilog hardware programming language and aesthetic design, <br/>capable of following black lines on the ground.<br/><img src='/images/car.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
@@ -18,12 +18,12 @@ collection: portfolio
 
     <!-- Image Section -->
     <div style="text-align: center; margin: 20px 0;">
-        <img src="your-image.jpg" alt="Project Image" style="max-width: 100%; border: 2px solid #ccc; border-radius: 5px;">
+        <img src="/images/car.jpg" alt="Project Image" style="max-width: 100%; border: 2px solid #ccc; border-radius: 5px;">
     </div>
 
     <!-- Video Section -->
     <div style="text-align: center; margin: 20px 0;">
-        <iframe width="720" height="405" src="https://www.youtube.com/embed/your-video-id" frameborder="0" allowfullscreen style="border: 2px solid #ccc; border-radius: 5px;"></iframe>
+        <iframe width="720" height="405" src="https://www.youtube.com/watch?v=wszNwoDu8Hg" frameborder="0" allowfullscreen style="border: 2px solid #ccc; border-radius: 5px;"></iframe>
     </div>
 
     <!-- Project Details -->

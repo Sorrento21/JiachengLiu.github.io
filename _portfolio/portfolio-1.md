@@ -34,6 +34,5 @@ collection: portfolio
         <li>Real-time data updates through API integration.</li>
         <li>Interactive elements, such as drag-and-drop functionality, for an enhanced user experience.</li>
     </ul>
-
-<!-- </div> -->
+</div>
 

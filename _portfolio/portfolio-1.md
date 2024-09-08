@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/car.jpg' width='500' height='300'>"
+excerpt: "A robot car built using the Verilog hardware programming language and aesthetic design, capable of following black lines on the ground.<br/><img src='/images/car.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 

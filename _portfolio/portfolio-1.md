@@ -1,6 +1,6 @@
 ---
 title: "Design and Construction of Line-Following Robot"
-excerpt: "A robot car built using the Verilog hardware programming language and aesthetic design, <br/>capable of following black lines on the ground.<br/><img src='/images/car.jpg' width='500' height='250'>"
+excerpt: "A robot car built using the Verilog hardware programming language and aesthetic design, <br/>capable of following black lines on the ground.<br/><img src='/images/car.jpg' width='500' height='200'>"
 collection: portfolio
 ---
 

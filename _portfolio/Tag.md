@@ -40,9 +40,9 @@ collection: portfolio
     <!-- Project Details -->
     <h2 style="font-size: 24px; color: #2980B9;">Project Details</h2>
     <ul style="font-size: 16px; color: #2C3E50; line-height: 1.8; margin-left: 20px;">
-        <li>Oversaw the overall device design, particularly the eccentric wheel part.</li>
-        <li>Responsible for all AutoCAD drafting work.</li>
-        <li>In charge of material cutting using the laser cutter.</li>
-        <li>Responsible for assembling the device and fine-tuning the components.</li>
+        <li>Identified the user pain point of insufficiently intelligent photo classification on mobile phones, making it difficult to retrieve target photos.</li>
+        <li>Designed the overall album style and proposed the idea of classifying photos based on tags.</li>
+        <li>Developed a complete tag-based usage flow and designed various possible usage scenarios to illustrate the convenience of the proposed method.</li>
+        <li>Used Figma for UI design to showcase the envisioned interaction model."</li>
     </ul>
 </div>

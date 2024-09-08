@@ -1,6 +1,6 @@
 ---
-title: "Design and Construction of Line-Following Robot"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/car.jpg' width="500" height="300">"
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

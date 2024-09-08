@@ -34,7 +34,7 @@ collection: portfolio
     <ul style="font-size: 16px; color: #2C3E50; line-height: 1.8; margin-left: 20px;">
         <li>Responsible for the hardware programming of the control module and drive module. Completed the core part of the smart car code.</li>
         <li>Responsible for hardware assembly and integration.</li>
-        <li>Responsible for hardware assembly and integration.</li>
+        <li>Conducted appearance design and adjustments.</li>
     </ul>
 </div>
 

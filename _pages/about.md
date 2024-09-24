@@ -18,15 +18,14 @@ Currently, my research interests are in **ubiquitous and mobile health**. For mo
   <div class="project-description">
     <div class="project-title">Identity authentication based on photoplethysmography (PPG)</div>
     <div class="project-authors">Jiankai Tang, <u>Jiacheng Liu*</u>, RENLING TONG, Kai Zhu, Zhe Li, Junliang Xing, Yuanchun Shi, Yuntao Wang (CHI 2025)</div>
-    <div class="project-authors">Manuscript in preparation</div>
+    <div class="project-authors">Submitted</div>
   </div>
 </div>
 
 <div class="project">
   <img src="/images/SSS.png" alt="Project Image" class="project-image">
   <div class="project-description">
-    <div class="project-title">Silent speech synthesis using electrolaryngeal voice</div>
-<!--     <div class="project-authors">Jiankai Tang, <u>and Jiacheng Liu</u>, RENLING TONG, Kai Zhu, Zhe Li, Junliang Xing, Yuanchun Shi, Yuntao Wang (Manuscript in preparation)</div> -->
+    <div class="project-title">Speech synthesis using electrolaryngeal voice</div>
     <div class="project-authors">Research during summer research at SciFilab at Cornell.(Plan to submit to IMWUT 2025)</div>
     <div class="project-authors">Ongoing research</div>
   </div>
